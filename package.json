@@ -1,8 +1,7 @@
 {
   "name": "namaste-react",
   "version": "1.0.0",
-  "description": "amaste-react by manjunath",
-  "main": "app.js",
+  "description": "namaste-react by manjunath",
   "scripts": {
     "test": "jest"
   },
@@ -20,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/Manjunathkumbar/namaste-react/issues"
   },
-  "homepage": "https://github.com/Manjunathkumbar/namaste-react#readme"
+  "homepage": "https://github.com/Manjunathkumbar/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-native": "^0.84.1"
+  }
 }
